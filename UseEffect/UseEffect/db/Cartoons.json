@@ -1,0 +1,52 @@
+{
+  "cartoons": [
+    {
+      "id": 1,
+      "image": "https://openmoji.org/data/color/svg/1F415.svg",
+      "description": "Dog Superhero",
+      "content": "A brave dog in a cape saving the city from villains."
+    },
+    {
+      "id": 2,
+      "image": "https://openmoji.org/data/color/svg/1F431.svg",
+      "description": "Cat Chef",
+      "content": "A clever cat cooking up mischief in the kitchen."
+    },
+    {
+      "id": 3,
+      "image": "https://openmoji.org/data/color/svg/1F916.svg",
+      "description": "Robot Friend",
+      "content": "A helpful robot playing with children in the park."
+    },
+    {
+      "id": 4,
+      "image": "https://openmoji.org/data/color/svg/1F47D.svg",
+      "description": "Alien Dancer",
+      "content": "A funky alien showing off dance moves on Earth."
+    },
+    {
+      "id": 5,
+      "image": "https://openmoji.org/data/color/svg/1F986.svg",
+      "description": "Pirate Duck",
+      "content": "A fearless duck sailing the cartoon seas for treasure."
+    },
+    {
+      "id": 6,
+      "image": "https://openmoji.org/data/color/svg/1F985.svg",
+      "description": "Detective Owl",
+      "content": "A wise owl solving mysteries in the forest."
+    },
+    {
+      "id": 7,
+      "image": "https://openmoji.org/data/color/svg/1F43C.svg",
+      "description": "Explorer Panda",
+      "content": "A curious panda exploring the jungle with a map."
+    },
+    {
+      "id": 8,
+      "image": "https://openmoji.org/data/color/svg/1F9A5.svg",
+      "description": "Ninja Sloth",
+      "content": "A sneaky sloth mastering the art of stealth and slow motion."
+    }
+  ]
+}
