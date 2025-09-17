@@ -1,0 +1,23 @@
+{
+  "person": {
+    "id": 1,
+    "name": "Hari Prakash",
+    "age": 27,
+    "gender": "Male",
+    "email": "hariprakash@example.com",
+    "phone": "+91-9876543210",
+    "address": {
+      "street": "123 Main Street",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "country": "India",
+      "zipcode": "600001"
+    },
+    "profile_image": "https://media.gettyimages.com/id/1776189479/photo/kolkata-india-virat-kohli-of-india-celebrates-their-century-to-equal-sachin-tendulkars-record.jpg?s=612x612&w=0&k=20&c=Ucfn7FCMHddElbBgXpH8qrAmVGl6VYSj4DjBEIlViJo=",
+    "social_links": {
+      "linkedin": "https://linkedin.com/in/hariprakash",
+      "github": "https://github.com/hariprakash",
+      "twitter": "https://twitter.com/hariprakash"
+    }
+  }
+}
